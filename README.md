@@ -1,2 +1,2 @@
-# Ball
-Basic javascript app demonstrating the canvas tag.
+# Website
+Basic website demonstrating knowledge of HTML.
